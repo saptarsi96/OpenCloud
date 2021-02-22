@@ -32,8 +32,13 @@ Trial 2:
 2. Provider Server setup in my machine.
 3. Login with the following credentials: 
   ```
-  id:
+  id: 
   password:
+  ```
+  *test user credentials*
+  ```
+  id: test
+  password: password
   ```
 4. Connection established.
 
