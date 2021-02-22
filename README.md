@@ -32,8 +32,8 @@ Trial 2:
 2. Provider Server setup in my machine.
 3. Login with the following credentials: 
   ```
-  id: 
-  password:
+  id: 871704285
+  password: 59v3rg
   ```
   *test user credentials*
   ```
